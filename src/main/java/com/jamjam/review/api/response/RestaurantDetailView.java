@@ -15,8 +15,8 @@ public class RestaurantDetailView {
     private final Long id;
     private final String name;
     private final String address;
-    private final ZonedDateTime createAt;
-    private final ZonedDateTime updateAt;
+    private final ZonedDateTime createdAt;
+    private final ZonedDateTime updatedAt;
     private final List<Menu> menus;
 
 
